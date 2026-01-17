@@ -1,0 +1,10 @@
+package vehicleProject;
+
+public class Vehicle {
+
+	//race features	
+	public void startRace() {
+        System.out.println("Start the race in vehicle");
+	}
+
+}
